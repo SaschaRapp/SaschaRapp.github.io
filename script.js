@@ -23,7 +23,7 @@
       view_all: "view all"
     },
     de: {
-      work: "Arbeiten",
+      work: "Werk",
       video: "Video",
       design: "Design",
       about: "Über mich",
@@ -34,3 +34,4 @@
 
   setLang(storedLang);
 })();
+
