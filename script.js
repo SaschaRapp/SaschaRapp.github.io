@@ -34,7 +34,7 @@ const translations = {
     paradise_title: "PARADISE SESSION",
     paradise_description: "Back home in Namibia, the conditions turned unexpectedly perfect — the kind of rare day you don’t see often: clear water + nice bright morning sun and no fog. I started out surfing, but as the session progressed, I swapped my board for my Sony FX30 and new WaveSolutions underwater housing to capture the magic.",
 
-    arctic_title: "Surfing the Arctic Circle",
+    arctic_title: "SURFING THE ARCTIC CIRCLE",
     arctic_description: "A few years back, I finally met two close friends in Sweden after never having met in person, despite having known each other for over a decade. We planned a road trip to the Lofoten Islands in Norway — a place none of us had ever been — chasing a long-held dream of mine: to surf in the Arctic Circle. We drove to a small town called Unstad, known for its icy waves and dramatic backdrop. The surf? Far from ideal. A full-on blizzard rolled in, the waves were messy wind swell, and to top it off, I unknowingly had a broken wrist. This video is a short visual diary from that trip — a reminder that sometimes, even when things don't go as planned, the journey itself is what sticks with you most.",
 
     strings_title: "STRINGS ATTACHED",
@@ -85,6 +85,7 @@ const translations = {
 
   setLang(storedLang);
 })();
+
 
 
 
