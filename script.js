@@ -68,7 +68,7 @@ const translations = {
     paradise_title: "PARADISE SESSION",
     paradise_description: "Zurück in Namibia wurden die Bedingungen unerwartet perfekt – ein seltener Tag mit klarem Wasser, heller Morgensonne und ohne Nebel. Ich startete selbst im Wasser, aber im Laufe der Session tauschte ich das Surfbrett gegen meine Sony FX30 und das neue WaveSolutions-Unterwassergehäuse, um die Magie einzufangen.",
 
-    arctic_title: "Surfing the Arctic Circle",
+    arctic_title: "SURFEN AM POLARKREIS",
     arctic_description: "Vor ein paar Jahren traf ich endlich zwei enge Freunde in Schweden, obwohl wir uns über ein Jahrzehnt lang nur online kannten. Wir planten einen Roadtrip zu den Lofoten in Norwegen – ein Ort, den keiner von uns je zuvor gesehen hatte – auf der Suche nach einem lang gehegten Traum: Surfen am Polarkreis. Wir fuhren nach Unstad, einem kleinen Ort, bekannt für seine eisigen Wellen und dramatische Kulisse. Die Bedingungen? Alles andere als ideal. Ein Blizzard zog auf, das Meer war chaotisch, und obendrein hatte ich mir das Handgelenk gebrochen – ohne es zu wissen. Dieses Video ist ein visuelles Tagebuch von jener Reise – und eine Erinnerung daran, dass am Ende oft der Weg wichtiger ist als das Ziel.",
 
     strings_title: "STRINGS ATTACHED",
@@ -85,6 +85,7 @@ const translations = {
 
   setLang(storedLang);
 })();
+
 
 
 
