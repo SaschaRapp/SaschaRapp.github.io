@@ -25,7 +25,7 @@
       // Projects
       levanto_title: "LEVANTO",
       levanto_subtitle: "A Weekend Surf Trip To Italy",
-      levanto_description: "I've had this footage sitting around because I could never quite figure out a story. This trip, however, was unforgettable. Lots of firsts this surf trip: first trip to Italy, first surf trip for a weekend in Europe, first surf with a broken hand. So I've decided to simply cut together some of my favourite moments I managed to document. Hopefully encapsulating the absolute vibe the 5 of us experienced, on a spontaneous strike mission to Levanto for that killer storm swell.",
+      levanto_description: "I've had this footage sitting around because I could never quite figure out a story. This trip, however, was unforgettable. Lots of firsts this surf trip: first trip to Italy, first surf trip for a weekend in Europe, first surf with a broken hand. So I've decided to cut together some of my favourite moments I managed to document. Hopefully encapsulating the absolute vibe the 5 of us experienced, on a spontaneous strike mission to Levanto for that killer storm swell.",
 
       discomfort_title: "PROJECT DISCOMFORT",
       discomfort_subtitle: "A Docu-like Edit About the Eisbach",
@@ -51,7 +51,7 @@
       job1_company: "Schwarzbild Medienproduktion GmbH, Munich",
       job1_duration: "09/2021 – 03/2025",
       job1_d1: "Video editing for advertising, event, and social media projects",
-      job1_d2: "Motion design & color grading (Adobe CC, Avid, DaVinci)",
+      job1_d2: "Motion design & colour grading (Adobe CC, Avid, DaVinci)",
       job1_d3: "Worked on projects for Airbus and NDA clients",
       job1_d4: "Used personal equipment (Sony FX30, drone, GoPro) for production extensions",
       job2_title: "Surf Coach & Lifeguard",
@@ -80,7 +80,7 @@
 
       interests_title: "PERSONAL PROJECTS & INTERESTS",
       interests1: "Own YouTube channel with surf, outdoor and travel documentaries",
-      interests2: "Passionate about: surfing, snowboarding, ski touring, volleyball, hiking, climbing, camping, traveling, adventure films & editing"
+      interests2: "Passionate about: surfing, snowboarding, ski touring, volleyball, hiking, climbing, camping, travelling, adventure films & editing"
     },
 
     de: {
@@ -157,4 +157,5 @@
 
   setLang(storedLang);
 })();
+
 
