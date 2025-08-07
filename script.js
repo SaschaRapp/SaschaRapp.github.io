@@ -53,7 +53,7 @@
       job1_title: "Production Assistant & Video Editor (dual studies)",
       job1_company: "Schwarzbild Medienproduktion GmbH, Munich",
       job1_duration: "09/2021 – 03/2025",
-      job1_d1: "Video editing for advertising, event, and social media projects",
+      job1_d1: "Video editing for advertising, events, and social media projects",
       job1_d2: "Motion design & colour grading (Adobe CC, Avid, DaVinci)",
       job1_d3: "Worked on projects for Airbus and NDA clients",
       job1_d4: "Used personal equipment (Sony FX30, drone, GoPro) for production extensions",
@@ -164,6 +164,7 @@
 
   setLang(storedLang);
 })();
+
 
 
 
