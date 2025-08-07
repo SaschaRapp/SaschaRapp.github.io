@@ -47,6 +47,9 @@
       wasted_description: "A Collective Project for the Wasted Talent Magazine and Boutique.",
 
       // CV Translation
+      about_me_title: "ABOUT ME",
+      about_me_text: "I’m a Media Design graduate with a passion for visual storytelling, video editing, and outdoor adventure. Whether behind the camera, in the edit bay, or crafting concepts, I thrive on bringing ideas to life. My work spans branded content, documentary storytelling, and creative social media formats.",
+      work_experience_title: "WORK EXPERIENCE",
       job1_title: "Production Assistant & Video Editor (dual studies)",
       job1_company: "Schwarzbild Medienproduktion GmbH, Munich",
       job1_duration: "09/2021 – 03/2025",
@@ -117,6 +120,10 @@
       wasted_description: "Ein Gemeinschaftsprojekt für das Wasted Talent Magazine und Boutique.",
 
       // CV Translation
+      about_me_title: "ÜBER MICH",
+      about_me_text: "Ich bin ein Mediendesign-Absolvent mit einer Leidenschaft für visuelles Storytelling, Videoschnitt und Outdoor-Abenteuer. Ob hinter der Kamera, im Schnitt oder in der Konzeption – ich liebe es, Ideen zum Leben zu erwecken. Meine Arbeit reicht von Branded Content über dokumentarisches Erzählen bis hin zu kreativen Social-Media-Formaten.",
+      work_experience_title: "BERUFSERFAHRUNG",
+
       job1_title: "Produktionsassistent & Cutter (duales Studium)",
       job1_company: "Schwarzbild Medienproduktion GmbH, München",
       job1_duration: "09/2021 – 03/2025",
@@ -157,5 +164,6 @@
 
   setLang(storedLang);
 })();
+
 
 
