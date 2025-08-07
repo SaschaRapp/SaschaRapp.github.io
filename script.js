@@ -46,7 +46,14 @@
       wasted_title: "Wasted Talent Collective",
       wasted_description: "A Collective Project for the Wasted Talent Magazine and Boutique.",
 
-      // CV Translation 
+      // CV Translation
+      job1_title: "Production Assistant & Video Editor (dual studies)",
+      job1_company: "Schwarzbild Medienproduktion GmbH, Munich",
+      job1_duration: "09/2021 – 03/2025",
+      job1_d1: "Video editing for advertising, event, and social media projects",
+      job1_d2: "Motion design & color grading (Adobe CC, Avid, DaVinci)",
+      job1_d3: "Worked on projects for Airbus and NDA clients",
+      job1_d4: "Used personal equipment (Sony FX30, drone, GoPro) for production extensions",
       job2_title: "Surf Coach & Lifeguard",
       job2_place: "O2 Surftown Munich (part-time)",
       job2_dates: "05/2024 – 11/2024",
@@ -110,6 +117,14 @@
       wasted_description: "Ein Gemeinschaftsprojekt für das Wasted Talent Magazine und Boutique.",
 
       // CV Translation
+      job1_title: "Produktionsassistent & Cutter (duales Studium)",
+      job1_company: "Schwarzbild Medienproduktion GmbH, München",
+      job1_duration: "09/2021 – 03/2025",
+      job1_d1: "Videoschnitt für Werbe-, Event- und Social Media-Projekte",
+      job1_d2: "Motion Design & Color Grading (Adobe CC, Avid, DaVinci)",
+      job1_d3: "Mitarbeit an Projekten für u. a. Airbus und NDA-Kunden",
+      job1_d4: "Einsatz eigener Ausrüstung (Sony FX30, Drohne, GoPro) für Set-Erweiterungen",
+    
       job2_title: "Surf Coach & Lifeguard",
       job2_place: "O2 Surftown München (Midijob)",
       job2_dates: "05/2024 – 11/2024",
@@ -142,3 +157,4 @@
 
   setLang(storedLang);
 })();
+
