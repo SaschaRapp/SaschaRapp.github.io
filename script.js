@@ -46,6 +46,27 @@
       wasted_title: "Wasted Talent Collective",
       wasted_description: "A Collective Project for the Wasted Talent Magazine and Boutique.",
 
+      drives_title: "WHAT DRIVES YOU?",
+      drives_short:
+  "MINI Surf Film — Urban Waves, Everyday Escapes\n" +
+  "A 90-second vertical film for the MINI Surf Film Competition 2025, " +
+  "contrasting the monotony of online meetings with the freedom of surfing Munich’s Eisbach wave.",
+      drives_long:
+  "MINI Surf Film Competition — “Whatever drives you, we’ll get you there.”\n" +
+  "This project was created for the MINI Surf Film Competition 2025 in Munich. " +
+  "The brief: develop a vertical film of up to 90 seconds for social media that interprets surfing in an urban context.\n" +
+  "My concept tells the tension between a monotonous workday and the feeling of freedom at Munich’s Eisbach wave. " +
+  "We start with a protagonist trapped in an endless loop of online meetings. " +
+  "Only when he closes the laptop, grabs the keys to the MINI Countryman and heads to the Eisbach does a different space open up: " +
+  "a daydream full of energy, cold water and dynamic surf action.\n" +
+  "Production notes:\n" +
+  "Camera: Sony FX30\n" +
+  "Visual language: contrasts between static, slightly humorous office scenes and fast-cut surf montages.\n" +
+  "Color grading: cinematic look in DaVinci Resolve Studio.\n" +
+  "Sound: a mix of deliberately sterile meeting ambience and energetic sound design for the surf sequences.\n" +
+  "The result is a spot that translates MINI’s brand claim “Whatever drives you, we’ll get you there” into something personal: " +
+  "whether everyday life or adventure — it’s about finding your drive and following it.",
+
       // CV Translation
       about_me_title: "ABOUT ME",
       about_me_text: "I’m a Media Design graduate with a passion for visual storytelling, video editing, and outdoor adventure. Whether behind the camera, in the edit bay, or crafting concepts, I thrive on bringing ideas to life. My work spans branded content, documentary storytelling, and creative social media formats.",
@@ -119,6 +140,29 @@
       wasted_title: "Wasted Talent Collective",
       wasted_description: "Ein Gemeinschaftsprojekt für das Wasted Talent Magazine und Boutique.",
 
+      drives_title: "WAS TREIBT DICH AN?",
+      drives_short:
+  "MINI Surf Film – Urbane Wellen, alltägliche Auszeiten\n" +
+  "Ein 90-sekündiger Vertical-Film für den MINI Surf Film Wettbewerb 2025, " +
+  "der die Monotonie von Online-Meetings dem Freiheitsgefühl des Surfens auf der Münchner Eisbachwelle gegenüberstellt.",
+      drives_long:
+  "MINI Surf Film Wettbewerb – „Whatever drives you, we’ll get you there.“\n" +
+  "Dieses Projekt entstand im Rahmen des MINI Surf Film Wettbewerbs 2025 in München. " +
+  "Die Aufgabe: einen maximal 90-sekündigen, vertikal produzierten Film für Social Media zu entwickeln, " +
+  "der das Thema Surfen in urbanem Kontext kreativ interpretiert.\n" +
+  "Mein Konzept erzählt die Spannung zwischen dem oft monotonen Arbeitsalltag und dem Freiheitsgefühl auf der Eisbachwelle. " +
+  "Der Protagonist ist in einer Endlosschleife aus Online-Meetings gefangen. " +
+  "Erst als er den Laptop zuklappt, den Schlüssel zum MINI Countryman greift und zum Eisbach fährt, öffnet sich ein anderer Raum: " +
+  "ein Tagtraum voller Energie, kaltem Wasser und dynamischer Surf-Action.\n" +
+  "Filmische Umsetzung:\n" +
+  "Kamera: Sony FX30\n" +
+  "Bildsprache: Kontraste zwischen statischen, leicht humorvollen Büroszenen und dynamisch geschnittenen Surf-Montagen.\n" +
+  "Color Grading: Cineastischer Look in DaVinci Resolve Studio.\n" +
+  "Ton: Mischung aus bewusst steriler Meeting-Atmosphäre und energiegeladenem Sounddesign für die Surf-Sequenzen.\n" +
+  "Das Ergebnis ist ein Spot, der den MINI-Claim „Whatever drives you, we’ll get you there“ persönlich übersetzt: " +
+  "Egal ob Alltag oder Abenteuer – es geht darum, den eigenen Antrieb zu finden und ihm konsequent zu folgen.",
+
+
       // CV Translation
       about_me_title: "ÜBER MICH",
       about_me_text: "Ich bin ein Mediendesign-Absolvent mit einer Leidenschaft für visuelles Storytelling, Videoschnitt und Outdoor-Abenteuer. Ob hinter der Kamera, im Schnitt oder in der Konzeption – ich liebe es, Ideen zum Leben zu erwecken. Meine Arbeit reicht von Branded Content über dokumentarisches Erzählen bis hin zu kreativen Social-Media-Formaten.",
@@ -164,6 +208,7 @@
 
   setLang(storedLang);
 })();
+
 
 
 
