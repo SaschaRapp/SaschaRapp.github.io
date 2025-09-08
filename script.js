@@ -63,9 +63,7 @@
   "Camera: Sony FX30\n" +
   "Visual language: contrasts between static, slightly humorous office scenes and fast-cut surf montages.\n" +
   "Color grading: cinematic look in DaVinci Resolve Studio.\n" +
-  "Sound: a mix of deliberately sterile meeting ambience and energetic sound design for the surf sequences.\n" +
-  "The result is a spot that translates MINI’s brand claim “Whatever drives you, we’ll get you there” into something personal: " +
-  "whether everyday life or adventure — it’s about finding your drive and following it.",
+  "Sound: a mix of deliberately sterile meeting ambience and energetic sound design for the surf sequences.\n" +,
 
       // CV Translation
       about_me_title: "ABOUT ME",
@@ -158,9 +156,7 @@
   "Kamera: Sony FX30\n" +
   "Bildsprache: Kontraste zwischen statischen, leicht humorvollen Büroszenen und dynamisch geschnittenen Surf-Montagen.\n" +
   "Color Grading: Cineastischer Look in DaVinci Resolve Studio.\n" +
-  "Ton: Mischung aus bewusst steriler Meeting-Atmosphäre und energiegeladenem Sounddesign für die Surf-Sequenzen.\n" +
-  "Das Ergebnis ist ein Spot, der den MINI-Claim „Whatever drives you, we’ll get you there“ persönlich übersetzt: " +
-  "Egal ob Alltag oder Abenteuer – es geht darum, den eigenen Antrieb zu finden und ihm konsequent zu folgen.",
+  "Ton: Mischung aus bewusst steriler Meeting-Atmosphäre und energiegeladenem Sounddesign für die Surf-Sequenzen.\n" +,
 
 
       // CV Translation
@@ -208,6 +204,7 @@
 
   setLang(storedLang);
 })();
+
 
 
 
